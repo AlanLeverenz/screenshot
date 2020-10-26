@@ -1,0 +1,25 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "description": "screenshot solutions sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanLeverenz/screenshot.git"
+  },
+  "keywords": [
+    "screenshots"
+  ],
+  "author": "Alan Leverenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanLeverenz/screenshot/issues"
+  },
+  "homepage": "https://github.com/AlanLeverenz/screenshot#readme",
+  "dependencies": {
+    "screenshot-desktop": "^1.12.2"
+  }
+}
